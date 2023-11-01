@@ -1,0 +1,16 @@
+C:\Arsh Learning Material\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github-deployment\OurWebApp.Web\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Arsh Learning Material\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github-deployment\OurWebApp.Web\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Arsh Learning Material\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github-deployment\OurWebApp.Web\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Arsh Learning Material\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github-deployment\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.deps.json
+C:\Arsh Learning Material\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github-deployment\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.runtimeconfig.json
+C:\Arsh Learning Material\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github-deployment\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.runtimeconfig.dev.json
+C:\Arsh Learning Material\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github-deployment\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.dll
+C:\Arsh Learning Material\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github-deployment\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.pdb
+C:\Arsh Learning Material\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github-deployment\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.csproj.AssemblyReference.cache
+C:\Arsh Learning Material\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github-deployment\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arsh Learning Material\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github-deployment\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.AssemblyInfoInputs.cache
+C:\Arsh Learning Material\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github-deployment\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.AssemblyInfo.cs
+C:\Arsh Learning Material\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github-deployment\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.csproj.CoreCompileInputs.cache
+C:\Arsh Learning Material\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github-deployment\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.dll
+C:\Arsh Learning Material\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github-deployment\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.pdb
+C:\Arsh Learning Material\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github-deployment\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.genruntimeconfig.cache
